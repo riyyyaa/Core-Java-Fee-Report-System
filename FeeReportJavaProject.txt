@@ -1,7 +1,3 @@
-Name: Riya Kulkarni
-PRN/Roll no. : 122B1F071 / TYITB071
-Subject: Java Lab
-
 Main Class:-
 
 import javax.swing.*;
